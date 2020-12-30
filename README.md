@@ -1,11 +1,15 @@
-Slack Ruby Bot Server Events Sample
-===================================
+FreiImFelde e.V. Slack Bot
+==========================
 
-[![Build Status](https://travis-ci.org/slack-ruby/slack-ruby-bot-server-events-sample.svg?branch=master)](https://travis-ci.org/slack-ruby/slack-ruby-bot-server-events-sample)
+(alpha)
 
 ## What is this?
 
-A sample app that uses [slack-ruby-bot-server-events](https://github.com/slack-ruby/slack-ruby-bot-server-events) to implement and respond to [Slack Events API](https://api.slack.com/events-api), [Interactive Message Buttons](https://api.slack.com/legacy/message-buttons) and [Slash Commands](https://api.slack.com/interactivity/slash-commands).
+Simple Slack bot based on [slack-ruby-bot-server-events-sample](https://github.com/slack-ruby/slack-ruby-bot-server-events-sample).
+
+## Features
+
+* Move thread to different channel (shortcut).
 
 ## Running the Sample
 
